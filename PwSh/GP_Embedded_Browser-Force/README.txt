@@ -1,0 +1,1 @@
+This directory contains the PowerShell script for GP_Embedded_Browser-Force.

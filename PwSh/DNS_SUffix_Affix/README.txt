@@ -1,0 +1,1 @@
+This directory contains the PowerShell script for DNS_SUffix_Affix.

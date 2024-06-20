@@ -1,0 +1,1 @@
+This directory contains the PowerShell script for Clr_Browsers.
